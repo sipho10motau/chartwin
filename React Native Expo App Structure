@@ -1,0 +1,13 @@
+chartwin/
+├── app.json (Expo config)
+├── App.tsx (Main app entry)
+├── package.json
+├── src/
+│   ├── screens/ (UI screens)
+│   ├── components/ (Reusable components)
+│   ├── services/ (API & WebSocket)
+│   ├── store/ (Redux/Context state)
+│   ├── utils/ (Helpers & indicators)
+│   └── types/ (TypeScript definitions)
+├── README.md
+└── .gitignore
